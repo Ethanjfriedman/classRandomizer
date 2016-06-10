@@ -1,0 +1,19 @@
+{
+  "name": "class_randomizer",
+  "version": "1.0.0",
+  "description": "Randomly sorts a provided array (of students) into groups of a desired size",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethanjfriedman/classRandomizer.git"
+  },
+  "author": "Ethan Friedman <ethanjfriedman@gmail.com> (http://www.ethanjfriedman.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethanjfriedman/classRandomizer/issues"
+  },
+  "homepage": "https://github.com/Ethanjfriedman/classRandomizer#readme"
+}
